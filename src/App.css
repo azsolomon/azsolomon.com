@@ -14,7 +14,12 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: white;
+}
+
+.icon {
+  padding: 10px;
+  size: 100;
 }
 
 .pic {
